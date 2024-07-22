@@ -1,16 +1,32 @@
 {
     "name": "manuelgil/ci4-blade",
-    "description": "Boilerplate with CodeIgniter 4 and BladeOne Template Engine.",
+    "description": "🔥 Boilerplate: Blade Template Engine for CodeIgniter 4 framework (with BladeOne)",
     "license": "MIT",
     "type": "project",
     "keywords": [
+        "blade template engine",
+        "blade-template-engine",
+        "blade",
+        "bladeone template engine",
+        "bladeone-template-engine",
+        "bladeone",
+        "ci-4",
+        "ci",
+        "ci4",
+        "codeigniter 4",
+        "codeigniter-4",
+        "codeigniter",
         "codeigniter4",
-        "blade template engine"
+        "framework",
+        "mvc",
+        "php",
+        "template engine",
+        "template"
     ],
     "authors": [
         {
             "name": "ManuelGil",
-            "email": "atencion.ms@outlook.com",
+            "email": "support@imgil.dev",
             "role": "Developer"
         }
     ],
@@ -20,7 +36,7 @@
         "slack": "https://codeigniterchat.slack.com"
     },
     "require": {
-        "php": "^7.4 || ^8.0",
+        "php": "^8.1",
         "codeigniter4/framework": "^4.0",
         "codeigniter4/translations": "^4.0",
         "eftec/bladeone": "^4.5"
@@ -28,9 +44,12 @@
     "require-dev": {
         "fakerphp/faker": "^1.9",
         "mikey179/vfsstream": "^1.6",
-        "phpunit/phpunit": "^9.1"
+        "phpunit/phpunit": "^10.5.18"
     },
     "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
         "exclude-from-classmap": [
             "**/Database/Migrations/**"
         ]

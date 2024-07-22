@@ -7,6 +7,48 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.16.0] - 2024-04-14
+
+### Changed
+
+- Update version 4.5.1 of CodeIgniter.
+
+## [1.15.0] - 2024-04-09
+
+### Changed
+
+- Update version 4.5.0 of CodeIgniter.
+
+## [1.14.0] - 2024-03-29
+
+### Changed
+
+- Update version 4.4.7 of CodeIgniter.
+
+## [1.13.0] - 2024-03-03
+
+### Changed
+
+- Update version 4.4.6 of CodeIgniter.
+
+## [1.12.0] - 2024-01-28
+
+### Changed
+
+- Update version 4.4.5 of CodeIgniter.
+
+## [1.11.1] - 2023-12-28
+
+### Fixed
+
+- Improve documentation in README.md and composer.json files
+
+## [1.11.0] - 2023-12-28
+
+### Changed
+
+- Update version 4.4.4 of CodeIgniter.
+
 ## [1.10.0] - 2023-10-27
 
 ### Changed
@@ -82,7 +124,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Rename welcome_message.php to welcome_message.blade.php.
 - Convert welcome_message.blade.php to child of layout.blade.php.
 
-[unreleased]: https://github.com/ManuelGil/ci4-blade/compare/v1.10.0...HEAD
+[unreleased]: https://github.com/ManuelGil/ci4-blade/compare/v1.16.0...HEAD
+[1.16.0]: https://github.com/ManuelGil/ci4-blade/compare/v1.15.0...v1.16.0
+[1.15.0]: https://github.com/ManuelGil/ci4-blade/compare/v1.14.0...v1.15.0
+[1.14.0]: https://github.com/ManuelGil/ci4-blade/compare/v1.13.0...v1.14.0
+[1.13.0]: https://github.com/ManuelGil/ci4-blade/compare/v1.12.0...v1.13.0
+[1.12.0]: https://github.com/ManuelGil/ci4-blade/compare/v1.11.1...v1.12.0
+[1.11.1]: https://github.com/ManuelGil/ci4-blade/compare/v1.11.0...v1.11.1
+[1.11.0]: https://github.com/ManuelGil/ci4-blade/compare/v1.10.0...v1.11.0
 [1.10.0]: https://github.com/ManuelGil/ci4-blade/compare/v1.9.0...v1.10.0
 [1.9.0]: https://github.com/ManuelGil/ci4-blade/compare/v1.8.0...v1.9.0
 [1.8.0]: https://github.com/ManuelGil/ci4-blade/compare/v1.7.0...v1.8.0
